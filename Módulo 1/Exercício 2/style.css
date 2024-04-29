@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+
+}
+
+#thumb1{
+    position: absolute;
+    left: 270px;
+}
+#thumb2{
+    position: absolute;
+    right: 270px;
+}
+#thumb3{
+    position: absolute;
+    left: 270px;
+    bottom: 10px;
+}
+#thumb4{
+    text-align: center;
+}

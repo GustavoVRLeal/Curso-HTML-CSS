@@ -1,0 +1,21 @@
+font-family = O tipo de fonte do seu texto
+
+font-size = O tamanho da fonte do seu texto
+
+font-weight = O peso da fonte
+
+font-width = A largura da fonte
+
+font-height = A altura da fonte
+
+font-style = O estilo da fonte
+
+text-decoration = Sublinhar o texto
+
+===========================================================
+
+shorthand font = Simplifica tudo
+
+Ordem: font-style > font-weight > font-size > font-family
+
+font: italic bolder 3em 'Arial', sans-serif;
